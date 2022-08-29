@@ -1,0 +1,15 @@
+.affichage {
+    background: #000;
+    height: 30vh;
+    width: 100vw;
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+    color: #fff;
+}
+
+.affichage__result {
+    margin-right: 3vh;
+    font-size: 6rem;
+    font-weight: 100;
+}
